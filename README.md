@@ -18,6 +18,6 @@
 - **git commit -m "msg"** — save staged changes
 - **git status** — show working tree status
 - **git branch <name>** — create/list branches
-
+- **git checkout <name>** — switch branches
 
 
