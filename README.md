@@ -19,5 +19,5 @@
 - **git status** — show working tree status
 - **git branch <name>** — create/list branches
 - **git checkout <name>** — switch branches
-
+- **git merge <name>** — merge a branch into current
 
