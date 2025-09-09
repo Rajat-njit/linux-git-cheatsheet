@@ -8,7 +8,7 @@
 - **rmdir** — remove an empty directory
 - **rm** — remove files; use \-r` for directories`
 - **cp** — copy files/directories; use \-r` for directories`
-
+- **mv** — move or rename files/directories
 
 
 
