@@ -12,5 +12,7 @@
 
 
 
-
 ## Git Command
+- **git init** — initialize a repository
+
+
