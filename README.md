@@ -2,6 +2,15 @@
 
 ## Linux Commands
 - **ls** — list files and directories
-- **cd** — change directory
-## Git Commands
+- **cd** — change directory 
+- **pwd** — print working directory
 
+
+
+
+
+
+
+
+
+## Git Command
