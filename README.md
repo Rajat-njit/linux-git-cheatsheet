@@ -14,5 +14,5 @@
 
 ## Git Command
 - **git init** — initialize a repository
-
+- **git add** — stage changes for commit
 
