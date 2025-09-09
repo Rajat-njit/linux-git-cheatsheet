@@ -6,7 +6,7 @@
 - **pwd** — print working directory
 - **mkdir** — create a directory
 - **rmdir** — remove an empty directory
-
+- **rm** — remove files; use \-r` for directories`
 
 
 
